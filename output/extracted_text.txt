@@ -1,0 +1,12 @@
+
+--- Page 1 ---
+INVOICE
+ Invoice Number: INV-001
+Date: 2025-12-16
+Bill To:
+John Doe
+john.doe@email.com
+Items:
+- Web development service: 1200 PLN
+- Data automation setup: 800 PLN
+Total: 2000 PLN
